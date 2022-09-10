@@ -1,8 +1,10 @@
 .header__lang-en {
   margin: 0;
   max-width: 29px;
+  color: #fff;
+  text-decoration: none;
 }
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .header__lang-en {
     max-width: 22px;
   }

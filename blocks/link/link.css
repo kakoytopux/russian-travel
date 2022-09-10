@@ -1,0 +1,7 @@
+.link {
+  transition: opacity .3s ease;
+  text-underline-offset: 4px;
+}
+.link:hover {
+  opacity: .5;
+}

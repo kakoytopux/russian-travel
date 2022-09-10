@@ -3,36 +3,33 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, 284px);
   grid-template-rows: repeat(auto-fit, 213px);
+  justify-content: center;
   gap: 16px;
   max-width: 1184px;
-  max-height: 671px;
 }
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, 300px);
     grid-template-rows: repeat(auto-fit, 225px);
     max-width: 928px;
-    max-height: 942px;
     gap: 14px;
   }
 }
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
     margin-top: 88px;
     max-width: 720px;
-    max-height: 1664px;
     grid-template-columns: repeat(auto-fit, 352px);
     grid-template-rows: repeat(auto-fit, 264px);
     gap: 16px;
   }
 }
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .photo-grid {
     margin-top: 64px;
     grid-template-columns: repeat(auto-fit, 288px);
     grid-template-rows: repeat(auto-fit, 216px);
     gap: 12px;
     max-width: 288px;
-    max-height: 2724px;
   }
 }
