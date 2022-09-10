@@ -1,0 +1,13 @@
+.header__block-lang {
+  position: absolute;
+  right: 0;
+  top: 46px;
+  font-family: 'Inter', 'calibri', tahoma;
+  font-style: normal;
+  font-weight: 400;
+}
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .header__block-lang {
+    top: 30px;
+  }
+}
