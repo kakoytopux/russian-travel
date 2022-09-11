@@ -11,7 +11,6 @@
 @media screen and (max-width: 1279px) {
   .footer {
     max-width: 928px;
-    max-height: 18px;
   }
 }
 @media screen and (max-width: 1023px) {
@@ -23,7 +22,6 @@
 @media screen and (max-width: 767px) {
   .footer {
     max-width: 186px;
-    max-height: 310px;
     margin: 64px 0 0 16px;
     flex-wrap: wrap;
   }

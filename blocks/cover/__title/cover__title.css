@@ -8,11 +8,10 @@
   font-style: normal;
   font-weight: 900;
   position: relative;
-  opacity: 1;
 }
 @media screen and (max-width: 767px) {
   .cover__title {
-    max-width: 288px;
+    max-width: 255px;
     font-size: 32px;
     line-height: 35px;
   }

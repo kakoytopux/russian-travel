@@ -8,7 +8,6 @@
   font-style: normal;
   font-weight: 400;
   position: relative;
-  opacity: 1;
 }
 @media screen and (max-width: 767px) {
   .cover__subtitle {

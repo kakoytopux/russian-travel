@@ -4,7 +4,7 @@
   grid-column: 3/4;
   grid-row: 1/2;
   align-self: flex-end;
-  font-family: 'Inter', 'calibri', tahoma;
+  font-family: 'Inter', 'calibri', sans-serif;
   font-style: normal;
   font-weight: 400;
 }
