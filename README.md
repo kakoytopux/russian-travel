@@ -18,6 +18,6 @@
 
 -----
 
-**Ссылка проекта на GitHub Pages: https://puxichh.github.io/russian-travel/**
+**Ссылка проекта на GitHub Pages: https://kakoytopux.github.io/russian-travel/**
 
 Удачи! :>>
