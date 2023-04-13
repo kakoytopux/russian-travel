@@ -19,5 +19,3 @@
 -----
 
 **Ссылка проекта на GitHub Pages: https://kakoytopux.github.io/russian-travel/**
-
-Удачи! :>>
